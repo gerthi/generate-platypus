@@ -26,7 +26,7 @@ dimensions = 480, 480
 # e.g. 
 # for x in range(0-200) 
 # would generate 201 birds numbered 0-200
-for x in range(0, 50):
+for x in range(0, 100):
 
     # using ETH block number as starting random number seed
     b=11981207

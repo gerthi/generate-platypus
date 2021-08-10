@@ -1,0 +1,53 @@
+
+BASIC VARIABLES
+
+# bg_color
+# eye_color + crazy eyes ?
+# body_color
+# beak_color
+
+ACCESSORIES
+
+# hats : none, casquette, Rcasquette, bandana, adventurer
+# eyes : none, sunglasses
+# mouth : none, cigarette
+# body : none, gold_chain
+
+
+example = { 
+  'bg_color': '#fff',
+  'eye_color': 'blue',
+  'body_color': 'green',
+  'beak_color': 'orange',
+  'hat': 'none',
+  'eyes': 'sunglasses',
+  'mouth': 'none',
+  'body': 'none'
+}
+
+
+### PYTHON SCRIPT
+
+- define basic attributes
+    bg_color, eye_color, body_color, beak_color
+
+- randomize accessories
+    hats
+- create pixel grid 
+- generate img
+- save attributes in csv
+ 
+    
+    attributes = {
+        'body_color': bo,
+        'belly_color': sh,
+        'eye_color': ei,
+        'beak_color': be,
+        'background': bg,
+        'hat': hat,
+        'hat_color': h2,
+        'sunglasses': eyes,
+        'mouth': mouth,
+        'neck': neck,
+    }
+    
